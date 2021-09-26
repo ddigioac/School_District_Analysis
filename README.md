@@ -14,7 +14,7 @@ In the district summary there was a slight contrast between the original analysi
 	- Average Math Score dropped by 0.1 
 	- Average Reading Score remained the same
 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/School_District_Analysis/blob/09c537719b547218c8a0dfc1e6c19e640670b6a5/District_Summary_1.png)
 
 ![This is an image]()
 
