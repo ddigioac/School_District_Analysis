@@ -27,7 +27,7 @@ In the school summary, values for Thomas High School were changed as a result of
 	- % Passing Reading increased from 70% to 97%
 	- % Overall Passing increased from 65% to 91%
 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/School_District_Analysis/blob/d0d2f2dade13c8145c07ebca98339553bf014341/School_Summary_1.png)
 
 ![This is an image]()
 
