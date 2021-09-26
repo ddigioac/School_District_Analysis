@@ -13,10 +13,12 @@ In this analysis I will be examining data from a particular school district afte
 In the district summary there was a slight contrast between the original analysis and the updated analysis:
 	- Average Math Score dropped by 0.1 
 	- Average Reading Score remained the same
-
+	
+Original District Summary:
 ![This is an image](https://github.com/ddigioac/School_District_Analysis/blob/09c537719b547218c8a0dfc1e6c19e640670b6a5/District_Summary_1.png)
 
-![This is an image]()
+Updated District Summary:
+![This is an image](https://github.com/ddigioac/School_District_Analysis/blob/cb7230385968e36db2dd5532ea3c42b87fb0ebf6/District_Summary_2.png)
 
 - How is the school summary affected?
 In the school summary, values for Thomas High School were changed as a result of the new analysis. 
