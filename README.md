@@ -27,9 +27,11 @@ In the school summary, values for Thomas High School were changed as a result of
 	- % Passing Reading increased from 70% to 97%
 	- % Overall Passing increased from 65% to 91%
 
+Original School Summary:
 ![This is an image](https://github.com/ddigioac/School_District_Analysis/blob/d0d2f2dade13c8145c07ebca98339553bf014341/School_Summary_1.png)
 
-![This is an image]()
+Updated School Summary:
+![This is an image](https://github.com/ddigioac/School_District_Analysis/blob/36ad9a5ee65ba467e3e9a50a225022407143dd55/School_Summary_2.png)
 
 - How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools? 
 
